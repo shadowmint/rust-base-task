@@ -1,0 +1,10 @@
+[package]
+name = "base-task"
+version = "1.0.0"
+authors = ["Douglas Linder <douglas.linder@gmail.com>"]
+
+[dependencies]
+futures = "0.1.18"
+
+[dev-dependencies]
+tokio = "0.1.3"
